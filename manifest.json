@@ -1,0 +1,6 @@
+{
+ "name" : "YouPlay",
+ "version" : "1.0",
+ "description" : "Audio Player for youtube",
+ "manifest_version" : 2
+}
